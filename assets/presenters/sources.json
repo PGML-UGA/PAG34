@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Yezhang Ding",
+    "asset": "presenters/yezhang-ding.webp",
+    "source": "https://biosciences.lbl.gov/profiles/yezhang-ding/",
+    "download": "https://biosciences.lbl.gov/wp-content/uploads/2021/06/yezhang_ding-300x300-1.png",
+    "license": "Public professional profile portrait; copyright remains with the original rights holder. No open license asserted.",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping.",
+    "talk_2026": "Unraveling Specialized Metabolism in Plant-Microbiome Interactions Using a Multi-Omics-Based Approach",
+    "program_source": "https://pgml-uga.github.io/PAG33/"
+  },
+  {
+    "name": "Beant Kapoor",
+    "asset": "presenters/beant-kapoor.webp",
+    "source": "https://www.ornl.gov/staff/beant-kapoor/",
+    "download": "https://www.ornl.gov/wp-content/uploads/2026/08/IMG_4510-1-467x584.jpg",
+    "license": "Public professional profile portrait; copyright remains with the original rights holder. No open license asserted.",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping.",
+    "talk_2026": "Influence of Bacillus Inoculation on Rhizosphere Microbiome Structure and Functional Potential in Poplar",
+    "program_source": "https://pgml-uga.github.io/PAG33/"
+  },
+  {
+    "name": "Dinesh Kumar Saini",
+    "asset": "presenters/dinesh-saini.webp",
+    "source": "https://www.depts.ttu.edu/forageresearch/people/saini-dinesh.php",
+    "download": "https://www.depts.ttu.edu/forageresearch/people/Saini-Dinesh-VERT2.jpg",
+    "license": "Public professional profile portrait; copyright remains with the original rights holder. No open license asserted.",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping.",
+    "talk_2026": "Integrating Phenomics, Genomics, and Predictive Modeling to Accelerate Ideotype Breeding in Grain Sorghum",
+    "program_source": "https://pgml-uga.github.io/PAG33/"
+  },
+  {
+    "name": "Ankush Sharma",
+    "asset": "presenters/ankush-sharma.webp",
+    "source": "https://pgml-uga.github.io/plantgenome.github.io/",
+    "download": "https://pgml-uga.github.io/plantgenome.github.io/img/Ankush.jpg",
+    "license": "Public professional profile portrait; copyright remains with the original rights holder. No open license asserted.",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping.",
+    "talk_2026": "PGDD2.0: A Comparative Genomics Platform for Linking Gene Duplication, Ecological Function, and Ecosystem Services",
+    "program_source": "https://pgml-uga.github.io/PAG33/"
+  },
+  {
+    "name": "Gurleen Sidhu",
+    "asset": "presenters/gurleen-sidhu.webp",
+    "source": "https://www.dnahp.com/team",
+    "download": "https://images.squarespace-cdn.com/content/v1/698a2134b107845419b65d21/b978fb34-d3de-40ee-8b08-a0a2fbff1dc5/Gurleen+Photo.jpg",
+    "license": "Public professional profile portrait; copyright remains with the original rights holder. No open license asserted.",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping.",
+    "talk_2026": "Genomic Diversity and Trait Architecture Supporting Ecosystem Services in a Perennial Crop - A Case Study in Asparagus",
+    "program_source": "https://pgml-uga.github.io/PAG33/"
+  },
+  {
+    "name": "Juan David Arbelaez Velez",
+    "asset": "presenters/juan-arbelaez.webp",
+    "source": "https://clacs.illinois.edu/directory/profile/arbelaez",
+    "download": "https://clacs.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photo/Screen%20Shot%202021-10-16%20at%2017.44.02.png.jpg?itok=A_ZUonDl",
+    "license": "Public professional profile portrait; copyright remains with the original rights holder. No open license asserted.",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping.",
+    "talk_2026": "Intercropping for Sustainable Agricultural Intensification and Improved Agroecosystem Services",
+    "program_source": "https://pgml-uga.github.io/PAG33/"
+  }
+]

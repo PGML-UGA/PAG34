@@ -1,0 +1,52 @@
+[
+  {
+    "asset": "wheat",
+    "title": "Sunset-over-the-wheat-field-featured.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset-over-the-wheat-field-featured.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Sunset-over-the-wheat-field-featured.jpg/1920px-Sunset-over-the-wheat-field-featured.jpg",
+    "artist": "Dreamy Pixel",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping."
+  },
+  {
+    "asset": "terraces",
+    "title": "Bali, Rice fields, Rice terraces in East Bali, Indonesia.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bali,_Rice_fields,_Rice_terraces_in_East_Bali,_Indonesia.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Bali%2C_Rice_fields%2C_Rice_terraces_in_East_Bali%2C_Indonesia.jpg/1920px-Bali%2C_Rice_fields%2C_Rice_terraces_in_East_Bali%2C_Indonesia.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping."
+  },
+  {
+    "asset": "bee",
+    "title": "Honey Bee on Gaillardia Flower - Flickr - Swallowtail Garden Seeds.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Honey_Bee_on_Gaillardia_Flower_-_Flickr_-_Swallowtail_Garden_Seeds.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Honey_Bee_on_Gaillardia_Flower_-_Flickr_-_Swallowtail_Garden_Seeds.jpg/1920px-Honey_Bee_on_Gaillardia_Flower_-_Flickr_-_Swallowtail_Garden_Seeds.jpg",
+    "artist": "Swallowtail Garden Seeds from Santa Rosa, California, United States",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping."
+  },
+  {
+    "asset": "pgml.png",
+    "source": "https://github.com/PGML-UGA",
+    "download": "https://avatars.githubusercontent.com/u/189144203?v=4",
+    "license": "Organization identity; used to identify the workshop repository owner, not an open-license photo."
+  },
+  {
+    "asset": "uga-caes.svg",
+    "source": "https://cropsoil.uga.edu/research/plant-breeding-genetics-genomics.html",
+    "download": "https://cropsoil.uga.edu/etc/clientlibs/caes-website/images/caes-extreme-horizontal-logo.svg",
+    "license": "Official University of Georgia College of Agricultural and Environmental Sciences identity; used unmodified in an institutional research link. Logo and trademarks belong to UGA."
+  },
+  {
+    "asset": "andrew-paterson.webp",
+    "title": "Andrew H. Paterson — organizer portrait",
+    "source": "https://pgml-uga.github.io/plantgenome.github.io/",
+    "download": "https://pgml-uga.github.io/plantgenome.github.io/assets/img/patersonandrew.jpg",
+    "license": "Public professional profile portrait; copyright remains with the original rights holder. No open license asserted.",
+    "changes": "Resized and converted to WebP; displayed with responsive cropping."
+  }
+]
